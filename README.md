@@ -7,14 +7,14 @@
   </a>
 </p>
 
-| STT | Họ tên | Email |
-| :---: | --- | --- |
+| STT | Họ tên |
+| :---: | --- |
 | 1 | **PGS.TS. Lê Đình Duy** | 
 
 ## **Giới thiệu thành viên nhóm**
 <!-- ### Thông tin liên hệ -->
-| STT | MSSV | Họ tên | Gmail | GITHUB | Facebook |
-|:--- | :-------|:----------|:------------|:------------|:-------------| 
+| STT | MSSV | Họ tên |
+|:--- | :-------|:----------|
 |1|19521858|Võ Tuấn Minh|19521858@gm.uit.edu.vn|
 |2|19521322|Huỳnh Ngọc Công Danh| 19521322@gm.uit.edu.vn|
 |3|19520148|Đinh Hoàng Lộc|19520148@gm.uit.edu.vn|
