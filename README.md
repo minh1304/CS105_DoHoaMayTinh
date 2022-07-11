@@ -44,4 +44,4 @@ A large and growing community of Blender user: có được một cộng đồng
 
 
 
-<video> /render/Demo_CS105.mp4 </video>
+<video src="/render/Demo_CS105.mp4"></video>
