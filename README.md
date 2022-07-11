@@ -9,7 +9,7 @@
 
 | STT | Họ tên |
 | :---: | --- |
-| 1 | **PGS.TS. Lê Đình Duy** | 
+| 1 | **PGS.TS. Mai Tiến Dũng** | 
 
 ## **Giới thiệu thành viên nhóm**
 <!-- ### Thông tin liên hệ -->
