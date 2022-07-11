@@ -42,6 +42,6 @@ Powerful: Blender có thể làm được hầu hết các thao tác để tạo
 Small: dung lượng chỉ có 250MB do các nhà phát triển đã cố gắng để không làm cho phần mềm trở nên nặng hơn bằng cách giới hạn các tác nhân làm cho phần mềm nặng hơn như các thư viện, DRM software, … và thay thế bằng các tài nguyên được tối giản làm cho Blender giảm được đáng kể kích thước khi cài đặt
 A large and growing community of Blender user: có được một cộng đồng mạng hỗ trợ đông đảo, từ group trên mạng xã hội cho đến các forum.
 
-
-
+<h2>III.	KẾT	QUẢ </h2>
+<video width="320px" height="auto" controls autoplay > <source src="render\Demo_CS105.mp4" />  </video>
 <video src="render/Demo_CS105.mp4"></video>
