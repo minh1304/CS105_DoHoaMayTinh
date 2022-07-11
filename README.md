@@ -7,6 +7,19 @@
   </a>
 </p>
 
+| STT | Họ tên | Email |
+| :---: | --- | --- |
+| 1 | **PGS.TS. Lê Đình Duy** | 
+
+## **Giới thiệu thành viên nhóm**
+<!-- ### Thông tin liên hệ -->
+| STT | MSSV | Họ tên | Gmail | GITHUB | Facebook |
+|:--- | :-------|:----------|:------------|:------------|:-------------| 
+|1|19521858|Võ Tuấn Minh|19521858@gm.uit.edu.vn|
+|2|19521322|Huỳnh Ngọc Công Danh| 19521322@gm.uit.edu.vn|
+|3|19520148|Đinh Hoàng Lộc|19520148@gm.uit.edu.vn|
+
+
 # Đồ án: Mô phỏng hiệu ứng mưa
 <h2>I.	GIỚI THIỆU ĐỀ TÀI	</h2>
 <h3>1.1 Đặt vấn đề</h3>
