@@ -41,3 +41,7 @@ Free: do được cấp phép bởi GNU GPL, và sở hữu bởi chính họ n�
 Powerful: Blender có thể làm được hầu hết các thao tác để tạo ra 1 mô hình 3D. Ngoài ra người dùng có thể tự điều chỉnh ra những công cụ phục vụ cho chính mình (customize) và Blender còn thể chạy được trên nhiều hệ điều hành như Windows, macOS và Linux.
 Small: dung lượng chỉ có 250MB do các nhà phát triển đã cố gắng để không làm cho phần mềm trở nên nặng hơn bằng cách giới hạn các tác nhân làm cho phần mềm nặng hơn như các thư viện, DRM software, … và thay thế bằng các tài nguyên được tối giản làm cho Blender giảm được đáng kể kích thước khi cài đặt
 A large and growing community of Blender user: có được một cộng đồng mạng hỗ trợ đông đảo, từ group trên mạng xã hội cho đến các forum.
+
+
+
+<video> /render/Demo_CS105.mp4 </video>
